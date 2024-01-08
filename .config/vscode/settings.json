@@ -1,0 +1,30 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.location": "top",
+    "window.zoomLevel": 1,
+    "workbench.productIconTheme": "fluent-icons",
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.colorTheme": "Dainty – One Dark Pro (chroma 1, lightness 0)",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "terminal.integrated.fontSize": 13,
+    "editor.formatOnSave": true,
+    "editor.glyphMargin": false,
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
