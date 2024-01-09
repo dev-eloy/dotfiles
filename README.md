@@ -21,6 +21,7 @@ Este repositorio contiene todas las tecnologías y configuraciones que uso en mi
 
 Instalar:
 
+- [App Installer from Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4NNS1?rtc=1&hl=es-ar&gl=AR)
 - [Windows Terminal from Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701?ocid=pdpshare)
 - [Powershell from Microsoft Store](https://www.microsoft.com/store/productId/9MZ1SNWT0N5D?ocid=pdpshare)
   Queremos que cuando abramos el Windows Terminal por defecto ya abra el nuevo Powershell que recien instalamos, entonces van al apartado de "Settings" → "Startup" → "Default Profile" → "Powershell"
