@@ -90,6 +90,7 @@ Los compiladores y las tecnologías que uso son:
 - [Window Subsystem for Linux](https://www.youtube.com/watch?v=ZO4KWQfUBBc&t=317s&ab_channel=FaztCode)
 - [C++](https://www.youtube.com/watch?v=v3ENcQpoA5A&t=130s&ab_channel=FaztCode)
 - [Microsoft PowerToys](https://apps.microsoft.com/detail/XP89DCGQ3K6VLD?hl=en-us&gl=US)
+- [ModernFlyouts](https://apps.microsoft.com/detail/9MT60QV066RP?hl=es-mx&gl=MX)
 - [Android Studio](https://developer.android.com/studio)
 
 ## Extensiones para Visual Studio Code
