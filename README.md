@@ -126,3 +126,4 @@ Los compiladores y las tecnologías que uso son:
 - [WhatFont](https://chromewebstore.google.com/detail/jabopobgcpjmedljpbcaablpmlmfcogm)
 - [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+- [File Icons for GitHub and GitLab](https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
