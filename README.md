@@ -9,6 +9,7 @@ Este repositorio contiene todas las tecnologías y configuraciones que uso en mi
   - [Windows Terminal](#windows-terminal)
   - [Compiladores y Herramientas](#compiladores-y-herramientas)
   - [Extensiones para Visual Studio Code](#extensiones-para-visual-studio-code)
+  - [Extensiones Google Chrome](#extensiones-google-chrome)
 
 ## Link Rápidos
 
@@ -117,4 +118,11 @@ Los compiladores y las tecnologías que uso son:
 - [Database Client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
+## Extensiones Google Chrome
 
+- [Email Extractor](https://chrome.google.com/webstore/detail/jdianbbpnakhcmfkcckaboohfgnngfcc)
+- [Temp Mail](https://chrome.google.com/webstore/detail/inojafojbhdpnehkhhfjalgjjobnhomj)
+- [Wappalyzer - Technology profiler](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=es)
+- [WhatFont](https://chromewebstore.google.com/detail/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+- [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
