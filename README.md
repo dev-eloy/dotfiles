@@ -10,6 +10,7 @@ Este repositorio contiene todas las tecnologías y configuraciones que uso en mi
   - [Compiladores y Herramientas](#compiladores-y-herramientas)
   - [Extensiones para Visual Studio Code](#extensiones-para-visual-studio-code)
   - [Extensiones Google Chrome](#extensiones-google-chrome)
+  - [Personalización de Windows](#personalización-de-windows)
 
 ## Link Rápidos
 
@@ -127,3 +128,14 @@ Los compiladores y las tecnologías que uso son:
 - [JSON Viewer](https://chromewebstore.google.com/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 - [File Icons for GitHub and GitLab](https://chromewebstore.google.com/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
+
+## Personalización de Windows
+
+- [TranslucentTB](https://apps.microsoft.com/detail/9PF4KZ2VN4W9?hl=es-es&gl=ES)
+
+Despues de instalar TranslucentTB en la Microsoft Store hay que ir a la configuración de la barra de tareas de Windows y activar ocultar automaticamente.
+
+- [Rainmeter](https://www.rainmeter.net/)
+- [Jaxcore](https://jaxcore.app/)
+
+
